@@ -3,7 +3,6 @@ import { CSSTransition, TransitionGroup } from 'react-transition-group';
 import styled from 'styled-components';
 import { navDelay, loaderDelay } from '@utils';
 import { usePrefersReducedMotion } from '@hooks';
-import { email } from '@config';
 
 const StyledHeroSection = styled.section`
   ${({ theme }) => theme.mixins.flexCenter};
@@ -63,34 +62,24 @@ const Hero = () => {
     return () => clearTimeout(timeout);
   }, []);
 
-  const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Patboke Jitthamma.</h2>;
-  const three = <h3 className="big-heading">I build and get things done.</h3>;
+  const one = <h1>Hello, my name is...</h1>;
+  const two = <h2 className="big-heading">Patboke Jitthamma</h2>;
+  const three = <h3 className="big-heading">Quality Over Quantity🌠</h3>;
   const four = (
     <>
       <p>
-        <span className="highlight">Software Engineer</span> with over 7 years of experience in{' '}
-        <span className="highlight">Full Stack Web</span> and{' '}
-        <span className="highlight">Extended Reality (VR,MR)</span>. 1 year of leading engineering
-        teams at a major tech company, delivering reliable software solutions while executing
-        projects from concept to completion.
+        <span className="highlight">Quality Assurance Specialist</span> with over{' '}
+        <span className="highlight">seven years</span> of experience in{' '}
+        <span className="highlight">Software Testing</span> and{' '}
+        <span className="highlight">Test Automation</span>.<br></br>
+        <br></br>
+        <span className="highlight">One year</span> of leading an overseas automation team of four,
+        optimizing QA processes, and enhancing software reliability.
       </p>
     </>
   );
-  const five = (
-    //<a
-    //  className="email-link"
-    //  href="https://www.newline.co/courses/build-a-spotify-connected-app"
-    //  target="_blank"
-    //  rel="noreferrer">
-    //  Check out my course!
-    //</a>
-    <a className="email-link" href={`mailto:${email}`}>
-      Get In Touch
-    </a>
-  );
 
-  const items = [one, two, three, four, five];
+  const items = [one, two, three, four];
 
   return (
     <StyledHeroSection>
