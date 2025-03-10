@@ -6,7 +6,7 @@ module.exports = {
   siteMetadata: {
     title: 'Patboke Jitthamma',
     description:
-      'Pramoch Viriyathomrongul is a software engineer who specializes in XR development and Web development.',
+      'Patboke Jitthamma is a Quality Assurance Specialist with over 7 years of experience in Software Testing and Test Automation.',
     siteUrl: 'https://pjitthamma.netlify.app', // No trailing slash allowed!
     image: '/hero.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '',
@@ -22,8 +22,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Pramoch Viriyathomrongul',
-        short_name: 'Pramoch Viriyathomrongul',
+        name: 'Patboke Jitthamma',
+        short_name: 'Patboke Jitthamma',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
