@@ -63,7 +63,7 @@ const Contact = () => {
       <p>
         I'm currently open to new opportunities.
         <br />
-        Whether you're looking for an engineer or have a question,
+        Whether you're looking for QA Automation or have a question,
         <br />
         my inbox is always welcome :)
       </p>
