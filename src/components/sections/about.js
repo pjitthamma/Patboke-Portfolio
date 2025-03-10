@@ -127,13 +127,13 @@ const About = () => {
 
   const skills = [
     'C#',
-    'Unity',
-    'Unity Netcode',
-    'Photon Engine',
-    'Meta XR SDKs',
-    'XR Interaction Toolkit',
+    'Selenium',
+    'SQL',
+    'Robot Framework',
+    'Postman Script',
+    'HTML/CSS',
     'JavaScript/TypeScript',
-    '.NET',
+    'Python',
   ];
 
   return (
@@ -144,30 +144,26 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hey there! I’m Pramoch, a software engineer from Thailand who loves building things
-              that make users happy. My goal is to build software that helps people and makes their
-              day-to-day easier.
+              Guten Tag! My name is Patboke, but you can call me <b>'Sans'</b>. A QA Specialist from
+              Thailand, I’m passionate about perfecting products to create joyful user experiences.
             </p>
 
             <p>
-              I spent several years as a seasoned engineer at{' '}
-              <a href="https://agoda.com">a large tech company</a>, developing, testing, and
-              maintaining a web application that handled over 10 million requests a day. During that
-              time, I got to collaborate with some awesome folks from all over the world — frontend,{' '}
-              backend, mobile, data, UX/UI — you name it!
+              With years of experience as an Automated Software Tester at several tech companies in
+              various industries, such as {''}
+              <a href="https://tech.allianz.com/"> insurance</a> {''}, {''}
+              <a href="https://www.agoda.com/"> travel</a> agencies. I specialize in test strategy,
+              automation frameworks, and cross-functional collaboration in Agile/Scrum environments.
             </p>
 
             <p>
-              Fast forward to now, I’m pursuing my{' '}
-              <a href="https://www.uni-weimar.de/en/media/chairs/computer-science-department/vr">
-                master’s degree
+              I hold a{' '}
+              <a href="https://www.tu-chemnitz.de/informatik/studium/studiengaenge/ma_web_engineering.php.en">
+                Master's degree
               </a>{' '}
-              in Computer Science in Germany, focusing on Extended Reality (XR). XR really excites
-              me because it brings me closer to the people who use my work, I love seeing their
-              reactions and getting direct feedback. My first dive into XR was back in 2014, when I
-              built a VR military training simulator for my bachelor thesis. Ever since then, I’ve
-              been eager to explore this tech even more, and I can’t wait to see where it takes me
-              next.
+              in Computer Science from Germany, where I researched{' '}
+              <b>AI-powered chatbot-GUI integration</b>. Leveraging my QA automation expertise, I
+              explore AI-driven usability evaluations to enhance user satisfaction and engagement.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
@@ -182,8 +178,8 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/moch.jpg"
-              width={500}
+              src="../../images/sans2.png"
+              //width={500}
               quality={95}
               formats={['PNG', 'WEBP']} // Netlify only support png, svg, if use their automate CI,CD
               alt="Headshot"
