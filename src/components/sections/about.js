@@ -134,6 +134,10 @@ const About = () => {
     'HTML/CSS',
     'JavaScript/TypeScript',
     'Python',
+    'Github Actions',
+    'Docker',
+    'Cypress (currently exploring)',
+    'Playwright (currently exploring)',
   ];
 
   return (
