@@ -1,13 +1,12 @@
 ---
 date: '2025-02-25'
-title: 'Evaluating User Experience by Integrating Chatbots with Graphical Web Interfaces'
+title: 'Software Deverloper & Project Management'
 company: 'Technische Universität Chemnitz'
-companyNameInTab: 'Master Thesis'
+companyNameInTab: 'TU Chemnitz'
 location: 'Chemnitz, Germany'
-range: 'December 2021 - Febuary 2025'
+range: 'January 2022 - January 2025 (3y)'
 url: 'https://vsr.informatik.tu-chemnitz.de/edu/studentprojects/2023/031/'
 ---
 
-- Researched and developed an integrated solution combining GUIs with chatbots AI to enhance user interaction.
-- Conducted usability evaluations to analyze the impact on user satisfaction and engagement.
-- Implemented solutions using React.js, TypeScript, Rasa Chatbot API, and Intro.js to enhance automation and user experience in e-commerce applications.
+- Master Thesis: “Evaluating User Experience by Integrating Chatbots with Graphical Web Interfaces” Developed an integrated solution combining GUIs with AI-driven chatbots to enhance user interaction. Assessed user satisfaction and engagement through usability evaluations. Implemented using React.js, TypeScript, Rasa Chatbot API, and Intro.js to optimize automation and UX in e-commerce.
+- Research and Projects: Explored user behavior, UI automation, and cross-border collaboration. Analyzed UX challenges in flight booking websites (Empirical Software Engineering). Researched automated UI generation for improved efficiency (Web Engineering Seminar). Applied project management skills brainstorming, requirement analysis, and stakeholder pitching in the ACROSS European Cross-border University Simulation.

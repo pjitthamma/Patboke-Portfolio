@@ -134,8 +134,8 @@ const About = () => {
     'HTML/CSS',
     'JavaScript/TypeScript',
     'Python',
-    'Github Actions',
     'Docker',
+    'Github Actions (currently exploring)',
     'Cypress (currently exploring)',
     'Playwright (currently exploring)',
   ];
@@ -148,16 +148,18 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Guten Tag! My name is Patboke, but you can call me <b>'Sans'</b>. A QA Specialist from
+              Guten Tag! My name is Patboke, but you can call me <b>Sans</b>. A QA Specialist from
               Thailand, I’m passionate about perfecting products to create joyful user experiences.
             </p>
 
             <p>
               With years of experience as an Automated Software Tester at several tech companies in
               various industries, such as {''}
-              <a href="https://tech.allianz.com/"> insurance</a> {''}, {''}
+              <a href="https://tech.allianz.com/"> insurance</a>, {''}
+              <a href="https://wildskymedia.com/"> media</a>, {''}
               <a href="https://www.agoda.com/"> travel</a> agencies. I specialize in test strategy,
-              automation frameworks, and cross-functional collaboration in Agile/Scrum environments.
+              automation frameworks, and cross-functional collaboration in <b>Agile/Scrum</b>{' '}
+              environments.
             </p>
 
             <p>
@@ -165,9 +167,9 @@ const About = () => {
               <a href="https://www.tu-chemnitz.de/informatik/studium/studiengaenge/ma_web_engineering.php.en">
                 Master's degree
               </a>{' '}
-              in Computer Science from Germany, where I researched{' '}
-              <b>AI-powered chatbot-GUI integration</b>. Leveraging my QA automation expertise, I
-              explore AI-driven usability evaluations to enhance user satisfaction and engagement.
+              in Computer Science from Germany, where I researched AI-powered chatbot-GUI
+              integration. Leveraging my QA automation expertise, I explore AI-driven usability
+              evaluations to enhance user satisfaction and engagement.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

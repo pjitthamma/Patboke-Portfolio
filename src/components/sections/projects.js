@@ -225,7 +225,11 @@ const Projects = () => {
             </div>
             <div className="project-links">
               {github && (
-                <a href={github} aria-label="GitHub Link" target="_blank" rel="noreferrer">
+                <a
+                  href={github || external}
+                  aria-label="GitHub Link"
+                  target="_blank"
+                  rel="noreferrer">
                   <Icon name="GitHub" />
                 </a>
               )}
@@ -243,7 +247,7 @@ const Projects = () => {
           </div>
 
           <h3 className="project-title">
-            <a href={external} target="_blank" rel="noreferrer">
+            <a href={github} target="_blank" rel="noreferrer">
               {title}
             </a>
           </h3>
@@ -266,7 +270,7 @@ const Projects = () => {
 
   return (
     <StyledProjectsSection>
-      <h2 ref={revealTitle}>Other Noteworthy Projects</h2>
+      <h2 ref={revealTitle}>Other Projects</h2>
 
       {/*<Link className="inline-link archive-link" to="/archive" ref={revealArchiveLink}>
         view the archive

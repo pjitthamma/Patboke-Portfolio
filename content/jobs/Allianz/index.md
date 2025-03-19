@@ -1,16 +1,16 @@
 ---
 date: '2021-09-01'
-title: 'Lead QA Automation Engineer'
+title: 'Senior QA Automation Engineer'
 company: 'Allianz Technology Thailand Co., Ltd.'
 companyNameInTab: 'Allianz'
 location: 'Bangkok, Thailand'
-range: 'April 2019 - September 2021'
+range: 'April 2019 - September 2021 (2y 6m)'
 url: 'https://tech.allianz.com/'
 ---
 
-- Led front-end automation, managing test planning, regression cycles, and bug tracking using Jira and Zapier, ensuring test coverage and UI stability.
-- Developed and maintained Selenium (C#) automation scripts, implementing cross-browser and multi-language automation through parallel sprints for updates and regression testing.
-- Managed an automation project with a team of 4, overseeing development, execution, and technical advising to enhance QA automation skills and testing efficiency.
-- Led knowledge-sharing sessions with the Indian QA team via WebEx and presented Angular automation solutions to a French client, securing further project engagements.
-- Developed a POC for Mobile Email Security Automation (Robot Framework), securing a project assignment for BKK base.
-- Handled urgent tasks while balancing workload across multiple teams, collaborating with developers, product owners, and designers to maintain software quality.
+- Spearheaded front-end automation by managing test planning, regression cycles, and bug tracking (Jira & Zapier), ensuring comprehensive test coverage and UI stability.
+- Designed and maintained automation scripts Selenium (C#), enabling cross-browser and multi-language testing through parallel sprints for updates and regression testing.
+- Supervised an automation project with a team of four, guiding development, execution, and technical improvements to enhance QA automation skills and testing efficiency.
+- Conducted knowledge-sharing sessions with the International QA team and showcased Angular automation solutions to an international client, securing further project engagements.
+- Developed a proof of concept for Mobile Email Security Automation (Robot Framework), resulting in a project assignment.
+- Managed urgent tasks while coordinating across multiple teams in an Agile/Scrum environment. Worked closely with developers, product owners, and designers through sprint planning, daily stand-ups, and retrospectives to uphold software quality and drive continuous improvement.
