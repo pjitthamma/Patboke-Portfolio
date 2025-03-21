@@ -135,9 +135,9 @@ const About = () => {
     'JavaScript/TypeScript',
     'Python',
     'Docker',
-    'Github Actions (currently exploring)',
-    'Cypress (currently exploring)',
-    'Playwright (currently exploring)',
+    'Cypress (exploring)',
+    'Github Actions (exploring)',
+    'Playwright (exploring)',
   ];
 
   return (
@@ -148,7 +148,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Guten Tag! My name is Patboke, but you can call me <b>Sans</b>. A QA Specialist from
+              สวัสดีค่า! My name is Patboke, but you can call me <b>Sans</b>. A QA Specialist from
               Thailand, I’m passionate about perfecting products to create joyful user experiences.
             </p>
 
