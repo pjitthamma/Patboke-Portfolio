@@ -73,7 +73,7 @@ const Hero = () => {
         <span className="highlight">Software Testing</span> and{' '}
         <span className="highlight">Test Automation</span>.<br></br>
         <br></br>
-        <span className="highlight">One year</span> of leading an overseas automation team of four,
+        <span className="highlight">One year</span> of leading an overseas automation team,
         optimizing QA processes, and enhancing software reliability.
       </p>
     </>

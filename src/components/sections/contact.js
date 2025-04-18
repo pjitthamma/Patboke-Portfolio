@@ -61,9 +61,9 @@ const Contact = () => {
       <h2 className="title">Get In Touch</h2>
 
       <p>
-        I'm currently open to new opportunities.
+        Currently working as a Principal QA Engineer at NEOZO.
         <br />
-        Whether you're looking for QA Automation or have a question,
+        Whether you're looking for software quality control or have a question,
         <br />
         my inbox is always welcome :)
       </p>
