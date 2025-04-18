@@ -158,7 +158,7 @@ const About = () => {
               <a href="https://tech.allianz.com/"> insurance</a>, {''}
               <a href="https://wildskymedia.com/"> media</a>, {''}
               <a href="https://www.agoda.com/"> travel</a>, {''}
-              <a href="https://www.neozo.de/"> logistics</a>, {''} agencies. I specialize in test
+              <a href="https://www.neozo.de/"> logistics</a> {''} agencies. I specialize in test
               strategy, automation frameworks, and cross-functional collaboration in{' '}
               <b>Agile/Scrum</b> environments.
             </p>
